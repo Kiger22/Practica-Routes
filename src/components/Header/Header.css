@@ -1,0 +1,24 @@
+header {
+  position: sticky;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 10svh;
+}
+
+header > nav > ul {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  height: 10svh;
+}
+
+header a {
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.active {
+  border-bottom: 2px solid #ffffff53;
+  color:#ffffff53;
+}

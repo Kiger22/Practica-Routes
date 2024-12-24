@@ -1,0 +1,10 @@
+.home {
+  height: 80svh;
+  width: 80svw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: rgba(137, 255, 222, 0.666);
+  font-weight: bold;
+  font-size: 50px;
+}

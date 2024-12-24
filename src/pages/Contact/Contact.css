@@ -1,0 +1,10 @@
+.contact {
+  height: 80svh;
+  width: 80svw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(255, 137, 137);
+  font-weight: bold;
+  font-size: 50px;
+}
